@@ -1,0 +1,502 @@
+[
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "18",
+    "log_time": "1:01 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "30",
+    "log_time": "10:29 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "60",
+    "log_time": "7:29 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "60",
+    "log_time": "11:17 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "66",
+    "log_time": "1:05 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "17",
+    "log_time": "5:51 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "57",
+    "log_time": "8:38 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "30",
+    "log_time": "1:11 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "09",
+    "log_time": "9:25 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "18",
+    "log_time": "6:12 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "24",
+    "log_time": "7:10 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "75",
+    "log_time": "1:51 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "08",
+    "log_time": "9:32 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "37",
+    "log_time": "4:35 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "92",
+    "log_time": "11:39 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "00",
+    "log_time": "1:24 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "23",
+    "log_time": "2:01 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "04",
+    "log_time": "10:01 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "19",
+    "log_time": "5:44 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "95",
+    "log_time": "4:30 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "87",
+    "log_time": "2:13 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "91",
+    "log_time": "6:15 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "27",
+    "log_time": "7:19 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "34",
+    "log_time": "10:52 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "05",
+    "log_time": "6:43 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "87",
+    "log_time": "3:33 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "04",
+    "log_time": "3:45 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "31",
+    "log_time": "7:45 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "28",
+    "log_time": "4:04 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "33",
+    "log_time": "4:54 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "55",
+    "log_time": "12:36 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "87",
+    "log_time": "5:49 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "45",
+    "log_time": "8:14 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "39",
+    "log_time": "6:00 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "59",
+    "log_time": "4:03 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "81",
+    "log_time": "10:41 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "15",
+    "log_time": "2:51 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "49",
+    "log_time": "7:50 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "82",
+    "log_time": "7:00 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "55",
+    "log_time": "7:07 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "40",
+    "log_time": "4:08 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "30",
+    "log_time": "2:42 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "85",
+    "log_time": "9:04 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "58",
+    "log_time": "1:42 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "71",
+    "log_time": "4:28 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "19",
+    "log_time": "10:21 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "99",
+    "log_time": "3:42 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "91",
+    "log_time": "11:57 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "04",
+    "log_time": "8:17 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "69",
+    "log_time": "7:00 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "82",
+    "log_time": "12:48 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "64",
+    "log_time": "12:42 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "84",
+    "log_time": "3:04 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "07",
+    "log_time": "2:43 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "01",
+    "log_time": "10:32 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "85",
+    "log_time": "8:11 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "46",
+    "log_time": "11:29 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "81",
+    "log_time": "11:20 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "16",
+    "log_time": "1:37 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "32",
+    "log_time": "3:37 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "81",
+    "log_time": "5:34 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "53",
+    "log_time": "12:10 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "39",
+    "log_time": "12:38 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "01",
+    "log_time": "2:19 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "84",
+    "log_time": "5:23 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "72",
+    "log_time": "8:54 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "95",
+    "log_time": "8:27 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "52",
+    "log_time": "9:42 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "83",
+    "log_time": "11:21 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "28",
+    "log_time": "5:26 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "21",
+    "log_time": "8:37 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "65",
+    "log_time": "1:20 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "63",
+    "log_time": "1:20 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "11",
+    "log_time": "7:56 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "98",
+    "log_time": "9:49 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "07",
+    "log_time": "1:26 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "25",
+    "log_time": "7:46 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "11",
+    "log_time": "12:08 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "39",
+    "log_time": "11:00 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "39",
+    "log_time": "10:37 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "83",
+    "log_time": "8:58 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "69",
+    "log_time": "9:16 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "23",
+    "log_time": "10:23 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "28",
+    "log_time": "10:48 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "61",
+    "log_time": "11:33 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "28",
+    "log_time": "7:50 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "02",
+    "log_time": "3:19 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "35",
+    "log_time": "9:54 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "92",
+    "log_time": "7:41 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "90",
+    "log_time": "6:19 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "26",
+    "log_time": "10:33 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "39",
+    "log_time": "9:27 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "95",
+    "log_time": "2:21 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "34",
+    "log_time": "6:08 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "74",
+    "log_time": "3:09 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "64",
+    "log_time": "9:03 AM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "88",
+    "log_time": "6:58 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.adminAccess()",
+    "execution_time": "81",
+    "log_time": "5:07 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "15",
+    "log_time": "9:29 PM"
+  },
+  {
+    "method_signature": "t1.java.demo.controller.ClientController.register()",
+    "execution_time": "57",
+    "log_time": "9:48 AM"
+  }
+]

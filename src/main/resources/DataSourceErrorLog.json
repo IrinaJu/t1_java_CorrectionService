@@ -1,0 +1,600 @@
+[{
+  "\"stack_trace\"": "\"Stack trace - 34\"",
+  "\"message\"": "\"Exception 09.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "17:56"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 12\"",
+  "\"message\"": "\"Exception 58.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "22:07"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 55\"",
+  "\"message\"": "\"Exception 66.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "17:29"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 24\"",
+  "\"message\"": "\"Exception 95.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "13:20"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 14\"",
+  "\"message\"": "\"Exception 67.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "20:35"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 98\"",
+  "\"message\"": "\"Exception 75.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "12:06"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 25\"",
+  "\"message\"": "\"Exception 32.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "15:36"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 50\"",
+  "\"message\"": "\"Exception 34.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "5:39"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 92\"",
+  "\"message\"": "\"Exception 84.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "1:07"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 13\"",
+  "\"message\"": "\"Exception 56.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "6:06"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 76\"",
+  "\"message\"": "\"Exception 97.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "20:53"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 49\"",
+  "\"message\"": "\"Exception 42.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "16:43"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 60\"",
+  "\"message\"": "\"Exception 29.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "7:59"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 23\"",
+  "\"message\"": "\"Exception 40.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "6:46"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 80\"",
+  "\"message\"": "\"Exception 34.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "19:14"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 05\"",
+  "\"message\"": "\"Exception 12.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "18:13"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 96\"",
+  "\"message\"": "\"Exception 40.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "20:03"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 21\"",
+  "\"message\"": "\"Exception 00.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "9:19"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 83\"",
+  "\"message\"": "\"Exception 62.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "19:37"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 20\"",
+  "\"message\"": "\"Exception 86.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "8:38"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 86\"",
+  "\"message\"": "\"Exception 62.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "16:49"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 38\"",
+  "\"message\"": "\"Exception 52.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "23:21"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 35\"",
+  "\"message\"": "\"Exception 52.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "4:50"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 96\"",
+  "\"message\"": "\"Exception 65.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "7:51"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 74\"",
+  "\"message\"": "\"Exception 99.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "8:13"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 10\"",
+  "\"message\"": "\"Exception 19.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "5:59"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 17\"",
+  "\"message\"": "\"Exception 06.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "10:28"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 58\"",
+  "\"message\"": "\"Exception 34.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "9:54"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 83\"",
+  "\"message\"": "\"Exception 99.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "13:49"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 43\"",
+  "\"message\"": "\"Exception 83.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "12:29"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 93\"",
+  "\"message\"": "\"Exception 51.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "23:06"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 18\"",
+  "\"message\"": "\"Exception 36.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "20:26"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 13\"",
+  "\"message\"": "\"Exception 91.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "17:50"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 60\"",
+  "\"message\"": "\"Exception 97.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "17:42"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 06\"",
+  "\"message\"": "\"Exception 07.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "1:26"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 70\"",
+  "\"message\"": "\"Exception 68.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "17:31"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 58\"",
+  "\"message\"": "\"Exception 20.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "7:10"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 24\"",
+  "\"message\"": "\"Exception 05.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "12:33"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 93\"",
+  "\"message\"": "\"Exception 98.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "21:22"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 04\"",
+  "\"message\"": "\"Exception 38.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "8:19"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 21\"",
+  "\"message\"": "\"Exception 42.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "20:02"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 73\"",
+  "\"message\"": "\"Exception 43.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "4:26"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 32\"",
+  "\"message\"": "\"Exception 39.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "17:59"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 42\"",
+  "\"message\"": "\"Exception 88.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "23:26"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 86\"",
+  "\"message\"": "\"Exception 38.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "5:10"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 96\"",
+  "\"message\"": "\"Exception 99.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "9:31"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 45\"",
+  "\"message\"": "\"Exception 64.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "17:00"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 27\"",
+  "\"message\"": "\"Exception 80.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "4:07"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 31\"",
+  "\"message\"": "\"Exception 68.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "1:09"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 18\"",
+  "\"message\"": "\"Exception 55.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "19:57"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 95\"",
+  "\"message\"": "\"Exception 88.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "21:22"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 72\"",
+  "\"message\"": "\"Exception 86.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "17:05"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 80\"",
+  "\"message\"": "\"Exception 02.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "11:48"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 16\"",
+  "\"message\"": "\"Exception 08.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "16:29"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 25\"",
+  "\"message\"": "\"Exception 59.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "1:30"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 55\"",
+  "\"message\"": "\"Exception 72.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "6:37"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 91\"",
+  "\"message\"": "\"Exception 36.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "7:04"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 52\"",
+  "\"message\"": "\"Exception 22.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "10:12"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 59\"",
+  "\"message\"": "\"Exception 52.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "14:25"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 48\"",
+  "\"message\"": "\"Exception 98.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "19:30"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 52\"",
+  "\"message\"": "\"Exception 82.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "7:29"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 33\"",
+  "\"message\"": "\"Exception 48.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "8:29"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 96\"",
+  "\"message\"": "\"Exception 75.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "5:57"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 85\"",
+  "\"message\"": "\"Exception 75.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "20:08"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 30\"",
+  "\"message\"": "\"Exception 50.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "3:44"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 60\"",
+  "\"message\"": "\"Exception 06.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "23:43"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 17\"",
+  "\"message\"": "\"Exception 09.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "16:39"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 84\"",
+  "\"message\"": "\"Exception 26.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "12:22"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 12\"",
+  "\"message\"": "\"Exception 73.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "10:51"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 65\"",
+  "\"message\"": "\"Exception 67.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "13:07"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 38\"",
+  "\"message\"": "\"Exception 32.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "10:58"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 51\"",
+  "\"message\"": "\"Exception 18.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "4:33"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 07\"",
+  "\"message\"": "\"Exception 70.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "4:16"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 98\"",
+  "\"message\"": "\"Exception 21.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "22:26"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 10\"",
+  "\"message\"": "\"Exception 12.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "15:51"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 27\"",
+  "\"message\"": "\"Exception 86.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "13:18"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 81\"",
+  "\"message\"": "\"Exception 62.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "7:21"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 38\"",
+  "\"message\"": "\"Exception 71.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "15:09"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 14\"",
+  "\"message\"": "\"Exception 95.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "11:41"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 78\"",
+  "\"message\"": "\"Exception 99.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "9:35"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 46\"",
+  "\"message\"": "\"Exception 28.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "3:04"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 99\"",
+  "\"message\"": "\"Exception 23.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "12:53"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 18\"",
+  "\"message\"": "\"Exception 45.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "20:41"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 41\"",
+  "\"message\"": "\"Exception 24.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "17:25"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 77\"",
+  "\"message\"": "\"Exception 32.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "12:47"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 96\"",
+  "\"message\"": "\"Exception 60.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "17:02"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 37\"",
+  "\"message\"": "\"Exception 23.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "13:46"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 13\"",
+  "\"message\"": "\"Exception 92.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "5:52"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 22\"",
+  "\"message\"": "\"Exception 70.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "23:49"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 33\"",
+  "\"message\"": "\"Exception 23.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "17:07"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 96\"",
+  "\"message\"": "\"Exception 68.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "20:05"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 74\"",
+  "\"message\"": "\"Exception 46.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "5:48"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 24\"",
+  "\"message\"": "\"Exception 40.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "1:09"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 20\"",
+  "\"message\"": "\"Exception 64.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "17:25"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 55\"",
+  "\"message\"": "\"Exception 24.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "18:52"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 08\"",
+  "\"message\"": "\"Exception 09.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "7:12"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 49\"",
+  "\"message\"": "\"Exception 94.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+  "\"error_time\"": "1:42"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 30\"",
+  "\"message\"": "\"Exception 16.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "9:59"
+},
+{
+  "\"stack_trace\"": "\"Stack trace - 85\"",
+  "\"message\"": "\"Exception 04.\"",
+  "method_signature\"": "t1.java.demo.controller.ClientController.adminAccess()()",
+  "\"error_time\"": "9:34"
+},
+  {
+    "\"stack_trace\"": "\"Stack trace - 18\"",
+    "\"message\"": "\"Exception 84.\"",
+    "method_signature\"": "t1.java.demo.controller.ClientController.register()",
+    "\"error_time\"": "4:23"
+  }]
