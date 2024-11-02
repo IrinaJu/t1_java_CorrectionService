@@ -22,9 +22,9 @@ security:
 management:
   metrics:
     tags:
-      appName: @project.build.finalName@
-      application: @project.name@
-      appVersion: @project.version@
+      appName: ${project.build.finalName}
+      application: ${project.name}
+      appVersion: ${project.version}
   endpoints:
     enabled-by-default: true
     web.exposure.include: health,prometheus,metrics,info,kafka
@@ -51,6 +51,7 @@ logging:
 t1:
   scan-path: ru.t1.java.demo
   kafka:
+    resend-interval: 5000
     bootstrap:
       server: ${KAFKA_SERVER:localhost:9092}
     consumer:
@@ -62,6 +63,8 @@ t1:
       client_registration: t1_demo_client_registration
       client_id_registered: t1_demo_client_registered
       client_transactions: t1_demo_client_transactions
+      client_transactions_errors: t1_demo_client_transaction_errors
+
     listener:
       poll-timeout: 1000
 

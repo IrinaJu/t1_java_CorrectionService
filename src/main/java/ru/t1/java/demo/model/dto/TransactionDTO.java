@@ -2,16 +2,14 @@ package ru.t1.java.demo.model.dto;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
-import lombok.AllArgsConstructor;
-import lombok.Builder;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import lombok.*;
 import ru.t1.java.demo.model.Account;
 
 
 import java.math.BigDecimal;
 
 @Data
+@Setter
 @AllArgsConstructor
 @NoArgsConstructor
 @JsonIgnoreProperties(ignoreUnknown = true)
@@ -19,6 +17,7 @@ import java.math.BigDecimal;
 public class TransactionDTO {
 
     private AccountDto accountDto;
+
     @JsonProperty("amount")
     private BigDecimal amount;
 

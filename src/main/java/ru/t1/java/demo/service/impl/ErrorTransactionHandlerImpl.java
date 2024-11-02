@@ -1,6 +1,7 @@
 package ru.t1.java.demo.service.impl;
 
-import lombok.Value;
+
+import org.springframework.beans.factory.annotation.Value;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -8,6 +9,7 @@ import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
 import ru.t1.java.demo.model.Transaction;
+import ru.t1.java.demo.model.dto.AccountDto;
 import ru.t1.java.demo.model.dto.TransactionDTO;
 import ru.t1.java.demo.repository.TransactionRepository;
 import ru.t1.java.demo.service.ErrorTransactionHandler;
@@ -22,7 +24,7 @@ public class ErrorTransactionHandlerImpl implements ErrorTransactionHandler {
     private static final String TRANSACTION_DOES_NOT_EXIST_MESSAGE = "Error transaction does not exist in the database";
     private static final String ERROR_TRANSACTION_SENT_MESSAGE = "Error transactions sent for processing";
 
-    @Value("${t1_demo_client_transactions}")
+    @Value("${t1.kafka.topic.client_transactions}")
     private String transactionTopic;
 
     private final KafkaTemplate<String, TransactionDTO> kafkaTemplate;
@@ -72,13 +74,17 @@ public class ErrorTransactionHandlerImpl implements ErrorTransactionHandler {
         kafkaTemplate.send(transactionTopic, transactionDto);
     }
 
+
     private TransactionDTO convertToDto(Transaction transaction) {
+        AccountDto accountDto = new AccountDto();
+        accountDto.setId(transaction.getAccount().getId());
         return new TransactionDTO(
-                transaction.getId(),
+                accountDto,
                 transaction.getAmount(),
-                transaction.getAccount().getId(),
-                transaction.getType()
+                transaction.getClientId(),
+                transaction.getAccount()
         );
+
     }
 }
 

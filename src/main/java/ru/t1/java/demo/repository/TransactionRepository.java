@@ -9,5 +9,5 @@ import java.util.Set;
 public interface TransactionRepository extends JpaRepository<Transaction, Long> {
     Set<Transaction> findAllByHasError(Boolean hasError);
 
-    List<Transaction> findAllByIsError(boolean b);
+    List<Transaction> findAllByIsError( boolean b);
 }

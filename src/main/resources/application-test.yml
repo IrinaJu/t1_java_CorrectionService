@@ -30,9 +30,9 @@ security:
 management:
   metrics:
     tags:
-      appName: @project.build.finalName@
-      application: @project.name@
-      appVersion: @project.version@
+      appName: ${project.build.finalName}
+      application: ${project.name}
+      appVersion: ${project.version}
   endpoints:
     enabled-by-default: true
     web.exposure.include: health,prometheus,metrics,info,kafka
